@@ -1,13 +1,11 @@
-# 🦾 2025 Hanium ROS project
-### 🏅 2025 한이음 드림업 ICT 공모전 장려상 (Honorable Mention, KAIT)  
+# 🦾 GPS 미지원 환경을 위한 실시간 센서 융합형 실내 위치 추정 솔루션
 
 > ### A real-time disaster rescue robot for GPS-denied environments using multi-sensor data fusion ### 
 > *(LiDAR, IMU, Wheel Encoder, Camera, Temperature/Humidity)*  
 
 ---
 
-## 🔗 Links  
-- 🎥 **Demo Video:** [YouTube Link](https://youtu.be/2Iq2_ShP6eY?si=E3-j7cPRBcZmXgdn)  
+## 🔗 Links    
 - 📄 **Paper:** “*Real-Time Disaster Rescue Robot for GPS-Denied Environments Using Multi-Sensor Data Fusion*,”  
   *Korea Information Technology Society, Nov. 2025*  
 
