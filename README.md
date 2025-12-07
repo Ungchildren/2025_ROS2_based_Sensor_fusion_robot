@@ -1,4 +1,4 @@
-# 🦾 GPS 미지원 환경을 위한 실시간 센서 융합형 실내 위치 추정 로봇
+# 🦾 GPS 미지원 환경을 위한 실시간 센서 융합형 실내 위치 추정 솔루션
 
 > ### A real-time disaster rescue robot for GPS-denied environments using multi-sensor data fusion ### 
 > *(LiDAR, IMU, Wheel Encoder, Camera, Temperature/Humidity)*  
@@ -104,11 +104,6 @@ The web dashboard (built with **Node-RED** and **MongoDB Atlas**) provides a rea
 
 
 🎥 **Result Video:** [YouTube Link](https://youtu.be/2Iq2_ShP6eY?si=E3-j7cPRBcZmXgdn)
-
----
-
-## 🏆 Award  
-***Honorable Mention (KAIT Hanium Dream-Up ICT Competition 2025)***
 
 ---
 
