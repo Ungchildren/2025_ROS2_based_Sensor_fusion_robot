@@ -1,4 +1,4 @@
-# 🦾 GPS 미지원 환경을 위한 실시간 센서 융합형 실내 위치 추정 솔루션
+# 🦾 GPS 미지원 환경을 위한 실시간 센서 융합형 실내 위치 추정 로봇
 
 > ### A real-time disaster rescue robot for GPS-denied environments using multi-sensor data fusion ### 
 > *(LiDAR, IMU, Wheel Encoder, Camera, Temperature/Humidity)*  
