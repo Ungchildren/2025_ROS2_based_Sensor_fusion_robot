@@ -8,7 +8,7 @@
 ## 🔗 Links    
 - 📄 **Paper:** “*Real-Time Disaster Rescue Robot for GPS-Denied Environments Using Multi-Sensor Data Fusion*,”  
   *Korea Information Technology Society, Nov. 2025*  
-
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12545654 
 ---
 
 ## 🧩 Background  
